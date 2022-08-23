@@ -1,7 +1,7 @@
 
 # Welcome to my Profile 💻💻
 
-- 🖥️🖱️ My name is Diego Alexander Villalba. </br></br>
+## 🖥️🖱️ My name is Diego Alexander Villalba. </br></br>
 
 
 - 💻 OS  I’m currently working on:</br></br>
