@@ -42,7 +42,7 @@
   </div>
   
 
-  ## <img src="https://codemyui.com/laptop-design-code-side-side-css/" width="25"> <b>Contribution graph</b>
+  ## <img src="https://cdn.dribbble.com/users/3052691/screenshots/6178918/coding.gif" width="25"> <b>Contribution graph</b>
   
 ![Deepu's Graph](https://activity-graph.herokuapp.com/graph?username=Villalbad10&area=true&hide_border=true&theme=dracula)
 
