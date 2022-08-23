@@ -41,7 +41,6 @@
     <img title="JavaScript" alt="JavaScript badge" src="https://img.shields.io/badge/ES6-JavaScript-FFCA28?style&logo=javascript" />
   </div>
   
-- I’m looking to be a FullStack developer 😁
 
   ## <img src="https://codemyui.com/laptop-design-code-side-side-css/" width="25"> <b>Contribution graph</b>
   
