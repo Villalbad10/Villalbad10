@@ -51,8 +51,8 @@
 
  <div align="center">   
   
-![Deepu's Trophy](https://github-profile-trophy.vercel.app/?username=Villalbad10&theme=dracula&column=4&no-frame=true)
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Villalbad10&theme=dracula&layout=compact)](https://github.com/Villalbad10/github-readme-stats"/>
+![Deepu's Trophy](https://github-profile-trophy.vercel.app/?username=Villalbad10&theme=algolia&column=4&no-frame=true)
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Villalbad10&theme=algolia&layout=compact)](https://github.com/Villalbad10/github-readme-stats"/>
  
   </div>
    
