@@ -39,13 +39,13 @@
   </a>
   <a target="_blank" href="https://www.javascript.com/">
     <img title="JavaScript" alt="JavaScript badge" src="https://img.shields.io/badge/ES6-JavaScript-FFCA28?style&logo=javascript" />
+   </a>
   </div>
   
 
-  ## <img src="https://cdn.dribbble.com/users/3052691/screenshots/6178918/coding.gif" width="25"> <b>Contribution graph</b>
+  ## <img src="https://cdn.dribbble.com/users/3052691/screenshots/6178918/coding.gif" width="25"/> <b>Contribution graph</b>
   
-![Deepu's Graph](https://activity-graph.herokuapp.com/graph?username=Villalbad10&area=true&hide_border=true&theme=dracula)
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Villalbad10&bg_color=000040&color=8080ff&line=0000ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## <img src="https://i0.wp.com/codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif?fit=880%2C440&ssl=1" width="25"> <b>Github Stats</b>
 
