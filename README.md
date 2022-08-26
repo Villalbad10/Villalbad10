@@ -56,7 +56,7 @@
  
   </div>
    
-## <img src="https://cdn.dribbble.com/users/3052691/screenshots/6178918/coding.gif" width="25"> <b>GitHub Streak</b>
+## <img src="https://cdn.dribbble.com/users/3052691/screenshots/6178918/coding.gif" width="25"> <b>GitHub Streak</b> 
 
 <p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Villalbad10&theme=dark" /> </p>
   
