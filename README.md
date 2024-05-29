@@ -16,7 +16,7 @@
   <a target="_blank" href="https://spring.io/projects/spring-boot">
     <img title="Spring Boot" alt="Spring badge" src="https://img.shields.io/badge/3.3.0-Spring_boot-green?logo=spring" />
   </a>
-  <a target="_blank" href="https://www.java.com/es/>
+  <a target="_blank" href="https://www.java.com/es/">
     <img title="Java" alt="Java" src="https://img.shields.io/badge/20-java-white" />
   </a>
   <a target="_blank" href="https://reactjs.org/">
