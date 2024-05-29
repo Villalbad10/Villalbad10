@@ -4,11 +4,17 @@
 ## 🖥️🖱️ My name is Diego Alexander Villalba. </br></br>
 
 
-- 💻 OS  I’m currently working on:</br></br>
+- 💻 I’m currently working on:</br></br>
 
 <div align="center">
   <a target="_blank" href="https://reactjs.org/">
     <img title="React" alt="React badge" src="https://img.shields.io/badge/18.2.0-React-61DAFB?style&logo=react" />
+  </a>
+  <a target="_blank" href="https://reactjs.org/">
+    <img title="Spring Boot" alt="Spring badge" src="https://img.shields.io/badge/3.3.0-Spring_boot-green?logo=spring" />
+  </a>
+  <a target="_blank" href="https://reactjs.org/">
+    <img title="Java" alt="Java" src="https://img.shields.io/badge/20-java-white" />
   </a>
   <a target="_blank" href="https://reactjs.org/">
     <img title="Create React App" alt="Create React App badge" src="https://img.shields.io/badge/18.2.0-Create%20React%20App-09D3AC?style&logo=create-react-app" />
