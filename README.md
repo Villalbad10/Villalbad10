@@ -10,10 +10,13 @@
   <a target="_blank" href="https://reactjs.org/">
     <img title="React" alt="React badge" src="https://img.shields.io/badge/18.2.0-React-61DAFB?style&logo=react" />
   </a>
-  <a target="_blank" href="https://reactjs.org/">
+  <a target="_blank" href="https://vuejs.org/">
+    <img title="Vue" alt="Vue" src="https://img.shields.io/badge/3.4.21-Vue-%234FC08D?logo=vue.js" />
+  </a>
+  <a target="_blank" href="https://spring.io/projects/spring-boot">
     <img title="Spring Boot" alt="Spring badge" src="https://img.shields.io/badge/3.3.0-Spring_boot-green?logo=spring" />
   </a>
-  <a target="_blank" href="https://reactjs.org/">
+  <a target="_blank" href="https://www.java.com/es/>
     <img title="Java" alt="Java" src="https://img.shields.io/badge/20-java-white" />
   </a>
   <a target="_blank" href="https://reactjs.org/">
@@ -22,11 +25,17 @@
   <a target="_blank" href="https://reactrouter.com/">
     <img title="React Router" alt="React Router badge" src="https://img.shields.io/badge/6.3.0-React%20Router-CA4245?style&logo=react-router" />
   </a>
+  <a target="_blank" href="https://www.postgresql.org/">
+    <img title="Postgres" alt="Postgres" src="https://img.shields.io/badge/16.2-Postgres-blue?logo=postgresql" />
+  </a>
   <a target="_blank" href="https://redux.js.org/">
     <img title="Redux" alt="Redux badge" src="https://img.shields.io/badge/8.0.2-Redux-764ABC?style&logo=redux" />
   </a>
   <a target="_blank" href="https://getbootstrap.com/">
     <img title="Bootstrap" alt="Bootstrap badge" src="https://img.shields.io/badge/v.5.1-Bootstrap-7952B3?style&logo=bootstrap" />
+  </a>
+  <a target="_blank" href="https://vuetifyjs.com/">
+    <img title="Vuetify" alt="Vuetify" src="https://img.shields.io/badge/3.6.7-Vuetify-%231867C0?logo=vuetify" />
   </a>
   <a target="_blank" href="https://ant.design/">
     <img title="Ant Design" alt="Ant Design badge" src="https://img.shields.io/badge/4.21.5-Ant%20Design-0170FE?style&logo=ant-design" />
