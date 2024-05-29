@@ -26,7 +26,7 @@
     <img title="React Router" alt="React Router badge" src="https://img.shields.io/badge/6.3.0-React%20Router-CA4245?style&logo=react-router" />
   </a>
   <a target="_blank" href="https://www.postgresql.org/">
-    <img title="Postgres" alt="Postgres" src="https://img.shields.io/badge/16.2-Postgres-blue?logo=postgresql" />
+    <img title="Postgres" alt="Postgres" src="https://img.shields.io/badge/16.2-Postgres-blue?logo=postgresql&labelColor=blue" />
   </a>
   <a target="_blank" href="https://redux.js.org/">
     <img title="Redux" alt="Redux badge" src="https://img.shields.io/badge/8.0.2-Redux-764ABC?style&logo=redux" />
