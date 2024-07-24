@@ -60,7 +60,7 @@
 
   ## <img src="https://cdn.dribbble.com/users/3052691/screenshots/6178918/coding.gif" width="25" /> <b>Contribution graph</b>
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=villalbad10&bg_color=d1dfff&color=050505&line=4c529e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=villalbad10&bg_color=100c16&color=f5f5f5&line=817e81&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## <img src="https://i0.wp.com/codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif?fit=880%2C440&ssl=1" width="25"> <b>Github Stats</b>
 
