@@ -66,7 +66,7 @@
 
  <div align="center">   
   
-![Deepu's Trophy](https://github-profile-trophy.vercel.app/?username=Villalbad10&theme=algolia&column=4&no-frame=true)
+![Deepu's Trophy]([https://github-profile-trophy.vercel.app/?username=Villalbad10&theme=algolia&column=4&no-frame=true](https://camo.githubusercontent.com/2730e147c4ccc4689bf0b3588a13663f634ea77144df731f28502317c15d5761/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d56696c6c616c6261643130267468656d653d6461726b))
  
   </div>
    
