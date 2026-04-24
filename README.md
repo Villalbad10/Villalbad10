@@ -55,6 +55,9 @@
   <a target="_blank" href="https://www.javascript.com/">
     <img title="JavaScript" alt="JavaScript badge" src="https://img.shields.io/badge/ES6-JavaScript-FFCA28?style&logo=javascript" />
    </a>
+    <a target="_blank" href="https://www.javascript.com/">
+    <img title="JavaScript" alt="JavaScript badge" src="https://img.shields.io/badge/5.8.2-Podman-%23892CA0?logo=podman" />
+   </a>
   </div>
   
 
