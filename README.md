@@ -14,7 +14,7 @@
     <img title="Vue" alt="Vue" src="https://img.shields.io/badge/3.4.21-Vue-%234FC08D?logo=vue.js" />
   </a>
   <a target="_blank" href="https://spring.io/projects/spring-boot">
-    <img title="Spring Boot" alt="Spring badge" src="https://img.shields.io/badge/3.3.0-Spring_boot-green?logo=spring" />
+    <img title="Spring Boot" alt="Spring badge" src="https://img.shields.io/badge/3.5.7-Spring_boot-green?logo=spring" />
   </a>
   <a target="_blank" href="https://www.java.com/es/">
     <img title="Java" alt="Java" src="https://img.shields.io/badge/20-java-white" />
